@@ -1,8 +1,8 @@
 # PlanetManager
 **PlanetEarth - User Auto Auth System   
 Developer : <a href="https://discord.com/users/894564302613254164" title="Kaga's Discord" target="_blank">KagaX0426</a>, <a href="https://discord.com/users/717219505562189885" title="Ruma's Discord" target="_blank">ridanit_ruma</a>, <a href="https://discord.com/users/781088270830141441" title="200mill's Discord" target="_blank">200mill</a>   
-Discord : [Click here](https://discord.gg/NshmCh4ptY, "Link : PlanetManager Discord Server")   
-WebSite : [Click here](https://planetmanager.inizeno.com, "Link : PlanetManager Introduce Site")**   
+Discord : [Click here](https://discord.gg/NshmCh4ptY "Link : PlanetManager Discord Server")   
+WebSite : [Click here](https://planetmanager.inizeno.com "Link : PlanetManager Introduce Site")**   
 <br />
 ### ***Before Use This Service...***
 > - PlanetManager는 플레닛어스 사용자라면 누구나 사용이 가능합니다.
@@ -108,12 +108,12 @@ Value의 둘중 한 한목이나 두 항목 다 공란("")으로 두셔도 상�
   - `<Message>` 를 전송합니다.
 - `External` : 유저가 해당 디스코드에 등록된 국가 또는 마을과 전혀 연관이 없는 외부인일 경우
   - `<Message>` 를 전송합니다.
-**Message 란에 {Town}과 {Nation}을 사용할 수 있습니다. (관련 문서는 [여기](#31-자동-역할-부여-시스템, "자동 역할 부여 시스템")를 참조)**   
+**Message 란에 {Town}과 {Nation}을 사용할 수 있습니다. (관련 문서는 [여기](#31-자동-역할-부여-시스템 "자동 역할 부여 시스템")를 참조)**   
    
 **지금까지 PlanetManager 서비스 유저 가이드였습니다. 앞으로도 더욱 편리한 플레닛어스 생활 즐기시기 바랍니다. 감사합니다.**
 > 본 카가와 이백밀, 그리고 루마로 이루어진 팀은 플레닛어스 외부 팀 입니다.
 > 위 서비스는 플레닛어스를 즐기는 모든 사람들이 이용할 수 있습니다.
 > 이 서비스가 여러분들에게 도움이 될 수 있도록 항상 노력하겠습니다.
-> 원하는 기능이 있다면 [디스코드 서버](https://discord.gg/NshmCh4ptY, "Link : PlanetManager Discord Server")에 방문하셔서 의견을 서로 공유하실 수 있습니다.
+> 원하는 기능이 있다면 [디스코드 서버](https://discord.gg/NshmCh4ptY "Link : PlanetManager Discord Server")에 방문하셔서 의견을 서로 공유하실 수 있습니다.
 
 with Kaga, 200mill, and ruma.
