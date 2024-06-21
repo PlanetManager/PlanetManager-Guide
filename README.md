@@ -1,6 +1,7 @@
 # PlanetManager
 **PlanetEarth - User Auto Auth System   
-Maker : KagaX0426, ridanit_ruma, 200mill**   
+Maker : KagaX0426, ridanit_ruma, 200mill   
+Discord : [Click here]("https://discord.gg/NshmCh4ptY", "Link : PlanetManager Discord Server")**   
 <br />
 ### ***Before Use This Service...***
 > - PlanetManager는 플레닛어스 사용자라면 누구나 사용이 가능합니다.
