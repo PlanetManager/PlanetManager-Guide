@@ -1,6 +1,6 @@
 # PlanetManager
 **PlanetEarth - User Auto Auth System   
-Developer : [KagaX0426](https://discord.com/users/894564302613254164, "Kaga's discord"), [ridanit_ruma](https://discord.com/users/717219505562189885, "Ruma's discord"), [200mill](https://discord.com/users/781088270830141441, "200mill's discord")   
+Developer : <a href="https://discord.com/users/894564302613254164" title="Kaga's Discord" target="_blank">KagaX0426</a>, <a href="https://discord.com/users/717219505562189885" title="Ruma's Discord" target="_blank">ridanit_ruma</a>, <a href="https://discord.com/users/781088270830141441" title="200mill's Discord" target="_blank">200mill</a>   
 Discord : [Click here](https://discord.gg/NshmCh4ptY, "Link : PlanetManager Discord Server")   
 WebSite : [Click here](https://planetmanager.inizeno.com, "Link : PlanetManager Introduce Site")**   
 <br />
