@@ -84,14 +84,14 @@ WebSite : [Click here](https://planetmanager.inizeno.com "Link : PlanetManager I
 Value의 둘중 한 한목이나 두 항목 다 공란("")으로 두셔도 상관 없습니다.
 
 #### 4. 유저 닉네임 편집
-`/setTitle [<String>]`
+`/setTitle [<string>]`
 유저의 이름 앞에 들어갈 문자열을 설정합니다. 문자열의 마지막에 공란은 자동으로 들어갑니다.   
-- <String> : 문자열
+- <string> : 문자열
   - 이 항목에 Planet 를 입력하면 Planet ridanit_ruma 로 유저의 닉네임이 자동으로 수정됩니다.
 
-`/setSurname [<String>]`
+`/setSurname [<string>]`
 유저의 이름 뒤에 들어갈 문자열을 설정합니다. 문자열의 맨 앞에 공란은 자동으로 들어갑니다.   
-- <String> : 문자열
+- <string> : 문자열
   - 이 항목에 User 를 입력하면 ridanit_ruma User 로 유저의 닉네임이 자동으로 수정됩니다.
 
 **위 두 명령어는 함께 사용이 가능합니다. 또한 {Town} 또는 {Nation}으로 유저의 마을 이름, 국가 이름을 넣을 수 있습니다.(관련 문서는 [여기](#31-자동-역할-부여-시스템 "자동 역할 부여 시스템")를 참조)**
